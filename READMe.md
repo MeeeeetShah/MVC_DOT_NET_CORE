@@ -25,7 +25,7 @@ CRUD for purchase
   ## important note
 
   In this project asp.det sdk version is 3.1
-  If you are using 6.0 or higher version than have to inbale 3.1 from the VS code installer..
+  If you are using 6.0 or higher version than have to enbale 3.1 from the VS code installer..
   ![image](https://github.com/MeeeeetShah/MVC_DOT_NET_CORE/assets/104897097/8dcd5b33-a4cd-48f9-812f-ef44b151021e)
   ![image](https://github.com/MeeeeetShah/MVC_DOT_NET_CORE/assets/104897097/18f2757a-4939-483b-8fcb-887c57c6c96c)
 
